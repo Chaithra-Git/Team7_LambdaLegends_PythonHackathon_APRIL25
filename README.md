@@ -12,7 +12,7 @@ Numpy Ninja Python Hackathon
 ### CSV Files
 - subject-info.csv : Particpants information i.e professional athletes aged 10-63.
 - test_measure.csv : Measurements taken when walking running on treadmill
-- 
+  
 #### Greeshma R DA 164 Questions 33 to 48
 
 1. Question 33 - Connect to database using PostgreSQL and increase the temperature 2 degrees for participant with maximum humidity and display the result 
