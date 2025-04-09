@@ -1,0 +1,2 @@
+# Team7_LambdaLegends_PythonHackathon_APRIL25
+Numpy Ninja Python Hackathon
